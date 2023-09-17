@@ -47,10 +47,19 @@ h4 {
   color: rgba(0, 0, 0, 0.18);
   justify-content: space-evenly;
 }
+.upper .day p{
+  position: relative;
+}
+.upper .month p{
+  position: relative;
+}
+.upper .year p{
+  position: relative;
+}
 .upper div p {
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  top: 255px;
+  top:20px
 }
 
 /* <-----------lower-----------> */
